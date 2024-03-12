@@ -1,8 +1,5 @@
 //Sapnil Basnet
-//vbb23
-//11/26/2023
-//Program 6
-
+//Program to count number of Happy numbers between 1 to 1 million
 
 #include <iostream>
 #include<chrono>
