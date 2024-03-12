@@ -1,10 +1,5 @@
 //Sapnil Basnet
-//1/25/2024
-//PA1
-//Collaborators:None
-//Assignment Number: 1
-//CS 2308- Spring 2024
-// Purpose :This program tracks and displays the medal count for various countries
+// This program tracks and displays the medal count for various countries
 
 #include <iostream>
 #include <iomanip>
