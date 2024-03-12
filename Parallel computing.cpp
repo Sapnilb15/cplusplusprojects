@@ -1,8 +1,5 @@
 //Sapnil Basnet
-//vbb23
-//11/26/2023
-//Program 6
-
+//Count Happy Prime Number thourgh reduction clause
 
 #include <iostream>
 #include <omp.h>
